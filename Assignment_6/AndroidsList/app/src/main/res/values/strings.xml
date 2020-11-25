@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidsList</string>
+    <string-array name="androids">
+        <item>Android 1.0</item>
+        <item>Android 1.5 Cupcake</item>
+        <item>Android 1.6 Donut</item>
+        <item>Android 2.0 Ecliars</item>
+        <item>Android 2.2 Froyo</item>
+        <item>Android 2.3 GingerBread</item>
+        <item>Android 3.0 HoneyComb</item>
+        <item>Android 4.0 IceCream Sandwitch</item>
+        <item>Android 4.1 JeallyBean</item>
+        <item>Android 4.4 Kitkat</item>
+        <item>Android 5.0 Lollipop</item>
+        <item>Android 6.0 MarshMallow</item>
+        <item>Android 7.0 Nougat</item>
+        <item>Android 8.0 Oreo</item>
+        <item>Android 9.0 Pie</item>
+        <item>Android 10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="user">Vaibhav</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="fname">Full Name</string>
+</resources>
